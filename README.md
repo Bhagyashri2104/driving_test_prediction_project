@@ -46,33 +46,35 @@ Check out the live demo here:
 
 ## 📸 Screenshots
 
+# 🏎️ Driving Test Prediction Project
+
+This project uses Machine Learning to predict driving test results based on various performance metrics.
+
+## 📸 App Visuals
+
 ### 🏠 Home Page
-The landing page where users can learn about the smart driving test prediction system.
-![Home Page](screenshots/Screenshot_4771.jpg)
+![Home Page](Screenshot%20(4771).png)
 
 ---
 
 ### 🔐 Authentication
-Users can create an account or log in to save and track their progress.
 | Sign-In | Sign-Up |
 |---|---|
-| ![Sign-In](screenshots/Screenshot_4772.png) | ![Sign-Up](screenshots/Screenshot_4773.png) |
+| ![Sign-In](Screenshot%20(4772).png) | ![Sign-Up](Screenshot%20(4773).png) |
 
 ---
 
-### 📊 Driving Prediction Form
-A comprehensive form where users input their driving data, including Road Signs, Steering Control, and Confidence levels.
-![Prediction Form](screenshots/Screenshot_4776.png)
+### 📊 Prediction System
+Users input data such as road sign knowledge, steering control, and confidence levels to get a prediction.
+![Prediction Form](Screenshot%20(4776).png)
 
 ---
 
 ### 🚥 Results & Feedback
-The system provides instant feedback, either confirming readiness or highlighting specific areas for improvement.
+The system provides instant feedback on whether a user is ready or needs more practice.
 | Ready to Test | Improvement Required |
 |---|---|
-| ![Ready](screenshots/Screenshot_4777.png) | ![Improvement](screenshots/Screenshot_4780.png) |
-
-
+| ![Ready](Screenshot%20(4777).png) | ![Improvement](Screenshot%20(4780).png) |
 
 
 
